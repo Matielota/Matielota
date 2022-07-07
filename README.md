@@ -13,7 +13,7 @@ I was born in 92 and right now I'm living in Cordoba, Argentina.
 
 2022-2022 | Full Stack Web Developer in Henry (https://www.soyhenry.com/)
 
-##📫You can see my portfolio in the following link
+📫You can see my portfolio in the following link
 
 https://portfolio-matielota.vercel.app/
 
